@@ -146,4 +146,4 @@ nltk.download('averaged_perceptron_tagger')
 
 ## License
 
-This project is for educational purposes. The dataset and code are provided as-is. 
+This project is for educational purposes. The dataset and code are provided as-is.
